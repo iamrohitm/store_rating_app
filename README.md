@@ -11,7 +11,6 @@ The application supports three different roles with role-based access:
 ## Tech Stack
 
 ### Frontend
-
 * React
 * JavaScript
 * Plain CSS
